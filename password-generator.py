@@ -1,5 +1,3 @@
-# Save as: Task3_Streamlit_PasswordGenerator.py
-
 import streamlit as st
 import random
 import string
